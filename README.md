@@ -30,6 +30,7 @@ Prazer! Me chamo Palloma Alves, sou natural de Campina Grande - PB e tenho 21 an
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png" 
 />
+
 <img 
     align="left" 
     alt="Power BI" 
@@ -38,3 +39,4 @@ Prazer! Me chamo Palloma Alves, sou natural de Campina Grande - PB e tenho 21 an
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" 
 />
+
