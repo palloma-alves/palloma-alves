@@ -4,6 +4,8 @@
 
 Prazer! Me chamo Palloma Alves, sou natural de Campina Grande - PB e tenho 21 anos. Sou aluna concluinte do curso de Estatística pela UFCG. Tenho o objetivo de me tornar uma Data Science, e aqui quero compartilhar meus conhecimentos e projetos desenvolvidos durante essa jornada. Tenho proeficiencia em áreas como Análise de Sobrevivência, Confiabilidade, Estatística Bayesiana, Modelos de Regressão e Classificação. Experiência práticas nas ferramentas R, Python, Excel, SQL e Power BI. Nesse espaço pretendo compatilhar meus aprendizados adquiridos durante essa jornada, e aprender novas habilidades.
 
+<br/>
+
 ### 🔧 Linguagens e Ferramentas
 
 <img 
@@ -39,4 +41,27 @@ Prazer! Me chamo Palloma Alves, sou natural de Campina Grande - PB e tenho 21 an
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" 
 />
+
+<br/>
+<br/>
+
+### 📈 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=palloma-alves&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=palloma-alves&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
